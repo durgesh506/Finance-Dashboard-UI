@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow Dashboard",
+  "description": "A clean and interactive personal finance dashboard with role-based access, real-time insights, and transaction tracking.",
+  "requestFramePermissions": []
+}
